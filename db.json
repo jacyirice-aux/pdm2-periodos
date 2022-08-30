@@ -20,8 +20,8 @@
 
   ], 
   "periodos" : [
-    { "name": "Fundamentos de Redes de Computadores", "cod": "FRD", "smile": "SORRINDO"},
-    { "name": "Fundamentos de Redes de Computadores", "cod": "FRD", "smile": "SORRINDO"}
+    {"disciplinas" : [{ "name": "Fundamentos de Redes de Computadores", "cod": "FRD", "smile": "SORRINDO"},
+    { "name": "Fundamentos de Redes de Computadores", "cod": "FRD", "smile": "SORRINDO"}]}
   ]
 
   }
