@@ -1,4 +1,4 @@
-[
+{ "periodos":[
       {
             "disciplinas": [
               {
@@ -9,3 +9,4 @@
             ]
       }
 ]
+}
