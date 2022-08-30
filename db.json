@@ -18,6 +18,10 @@
 
     { "id" : 3 , "email" : "fagno@ifto.edu.br"}
 
+  ], 
+  "periodos" : [
+    { "name": "Fundamentos de Redes de Computadores", "cod": "FRD", "smile": "SORRINDO"},
+    { "name": "Fundamentos de Redes de Computadores", "cod": "FRD", "smile": "SORRINDO"}
   ]
 
   }
